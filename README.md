@@ -70,6 +70,8 @@ If you are sending POST: http://localhost:8080/movie/search request, you should 
 	}
 	
 	
+	
+	
 
 Thank you. 
 
