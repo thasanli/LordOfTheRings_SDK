@@ -1,5 +1,5 @@
 
-This is a simple SDK developed using Java / Maven / Spring Boot integrating already existing "Lord of the Rings" API (https://the-one-api.dev/).
+This is a simple SDK developed using Java / Maven / Spring Boot integrated already existing "Lord of the Rings" API (https://the-one-api.dev/).
 
 
 Lord of the Rings SDK consists of total 4 end-points.
