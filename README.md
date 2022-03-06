@@ -34,7 +34,7 @@ Browse the Maven [pom.xml](https://github.com/thasanli/LordOfTheRings_SDK/blob/m
 
 On the command line
 
-	git clone https://github.com/spring-projects/spring-petclinic.git
+	git clone https://github.com/thasanli/LordOfTheRings_SDK.git
 	
 Build the project and run the tests by running 
 
@@ -44,7 +44,7 @@ Inside Eclipse or STS
 
 	File -> Import -> Maven -> Existing Maven project
 
-Run the application main method by right clicking on it and choosing 
+Run the [application main](https://github.com/thasanli/LordOfTheRings_SDK/blob/main/src/main/java/com/lordofrings/sdk/DemoApplication.java) method by right clicking on it and choosing 
 
 	Run As -> Java Application. 
 	
